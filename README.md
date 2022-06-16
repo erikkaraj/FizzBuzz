@@ -1,0 +1,1 @@
+These are the shortest versions of FizzBuzz exersize counting just the characters

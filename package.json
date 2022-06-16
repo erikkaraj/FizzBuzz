@@ -1,0 +1,6 @@
+{
+  "name": "fizzbuzz",
+  "scripts": {
+    "start": "node index3.js"
+  }
+}
